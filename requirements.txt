@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+tqdm
+numpy
+matplotlib
+imageio
+imagehash
+pillow
+scikit-learn
+umap-learn
+numba
+rasterfairy
