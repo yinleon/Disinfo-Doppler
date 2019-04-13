@@ -17,16 +17,16 @@ In this article we'll display these features using Reddit data collected by our 
 This article is broken up into several Jupyter Notebooks.
 1. Data Collection <br>
     <i>How to build an image dataset from Reddit?</i> <br>
-    [GitHub](link_1) | [NBViewer](link_2) | [Collaboratory](link_3)  
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/0-download-data.ipynb) | [NBViewer](link_2) | [Collaboratory](link_3)  
 2. Feature Extraction <br>
     <i>How to transform images into searchable features?</i> <br>
-    [GitHub](link_1) | [NBViewer](link_2) | [Collaboratory](link_3)
+    [GitHub](lhttps://github.com/yinleon/doppler_tutorials/blob/master/1-feature-extraction.ipynb) | [NBViewer](link_2) | [Collaboratory](link_3)
 3. Mosaic Analysis <br>
     <i>How to sort images by visual similarity?</i> <br>
-    [GitHub](link_1) | [NBViewer](link_2) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/2-mosaic-analysis.ipynb) | [NBViewer](link_2) | [Collaboratory](link_3)
 4. Reverse Image Search <br>
     <i>How to find similar images and provenance?</i> <br>
-    [GitHub](link_1) | [NBViewer](link_2) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/3-reverse-image-search.ipynb) | [NBViewer](link_2) | [Collaboratory](link_3)
 
 
 ## How does it work?
@@ -47,7 +47,7 @@ We seek to empower newsrooms, researchers and members of civil society groups to
 Specifically, the Disinfo Doppler will help evidence-based reporting and research into content that is ephemeral, unindexed and toxic in nature. The Disinfo Doppler would allow a greater variety of users the ability to navigate and investigate these spaces in a more secure and systematic way than is currently available. Formalizing how we observse this content is of utmost importance, as extended contact with these spaces is unnecessary and can lead to vicarious trauma, and in some rare cases radicalization. The Disinfo Doppler allows users to distance themselves from tertiary material not relevant to their investigation, while providing context vertically and horizontally.
 
 ## About
-Who are we blah blah
+Who are we (...)
 
 ## Citation
 If this article or the code are helpful to you, please provide a citation.<br>
