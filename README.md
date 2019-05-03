@@ -5,7 +5,7 @@ Published: 2019-04-06<br>
 Last Updated: 2019-04-06
 
 ## Intro
-The Disinfo Doppler is an open source computer vision application used to trace and measure image-based activity across online communities. 
+The Doppler is an open source computer vision toolkit used to trace and measure image-based activity online. 
 
 The Doppler has two main functions:
 1. Reverse Image Search 
@@ -17,17 +17,19 @@ In this article we'll display these features using Reddit data collected by our 
 This article is broken up into several Jupyter Notebooks.
 1. Data Collection <br>
     <i>How to build an image dataset from Reddit?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb) | [Collaboratory](link_3)  
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb)  
 2. Feature Extraction <br>
-    <i>How to transform images into searchable features?</i> <br>
-    [GitHub](lhttps://github.com/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb) | [Collaboratory](link_3)
+    <i>How to transform images into searchable features using a pre-trained neural net?</i> <br>
+    [GitHub](lhttps://github.com/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb)
 3. Mosaic Analysis <br>
     <i>How to sort images by visual similarity?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb)
 4. Reverse Image Search <br>
     <i>How to find similar images and provenance?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb)
 
+The repository is also hosted in the [Binder](https://mybinder.org/v2/gh/yinleon/doppler_tutorials/master
+) interactive environment.
 
 ## How does it work?
 In order to use the two functions of the Doppler, images need to be transformed into differential features. To do this we use two computer vision techniques, d-hashing and feature extraction using a pre-trained neural network.
