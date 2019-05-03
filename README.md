@@ -17,16 +17,16 @@ In this article we'll display these features using Reddit data collected by our 
 This article is broken up into several Jupyter Notebooks.
 1. Data Collection <br>
     <i>How to build an image dataset from Reddit?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/0-download-data.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/0-download-data.ipynb) | [Collaboratory](link_3)  
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/1-download-data.ipynb) | [Collaboratory](link_3)  
 2. Feature Extraction <br>
     <i>How to transform images into searchable features?</i> <br>
-    [GitHub](lhttps://github.com/yinleon/doppler_tutorials/blob/master/1-feature-extraction.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/1-feature-extraction.ipynb) | [Collaboratory](link_3)
+    [GitHub](lhttps://github.com/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/2-feature-extraction.ipynb) | [Collaboratory](link_3)
 3. Mosaic Analysis <br>
     <i>How to sort images by visual similarity?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/2-mosaic-analysis.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/2-mosaic-analysis.ipynb) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/3-mosaic-analysis.ipynb) | [Collaboratory](link_3)
 4. Reverse Image Search <br>
     <i>How to find similar images and provenance?</i> <br>
-    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/3-reverse-image-search.ipynb) | [NBViewer](link_2) | [Collaboratory](link_3)
+    [GitHub](https://github.com/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb) | [NBViewer](https://nbviewer.jupyter.org/github/yinleon/doppler_tutorials/blob/master/4-reverse-image-search.ipynb) | [Collaboratory](link_3)
 
 
 ## How does it work?
