@@ -2,7 +2,10 @@
 Leon Yin
 <br>
 Published: 2019-04-06<br>
-Last Updated: 2019-04-06
+Last Updated: 2021-02-28
+
+Note:<br>
+This project is no longer maintained. Please refer to the forked project: [Meme Observatory](https://github.com/memeticinfluence/meme-observatory).
 
 ## Intro
 The Doppler is an open source computer vision toolkit used to trace and measure image-based activity online. 
@@ -11,7 +14,7 @@ The Doppler has two main functions:
 1. Reverse Image Search 
 2. Mosaic Analysis. 
 
-In this article we'll display these features using Reddit data collected by our friends at [PushShift](PushShift.io). However, the methods and backend are generalizable to any source of images. By standardizing how we study images we get closer to cross-platform analysis.
+In this article we'll display these features using Reddit data collected by our friends at [pushshift](https://PushShift.io). However, the methods and backend are generalizable to any source of images. By standardizing how we study images we get closer to cross-platform analysis.
 
 ## Table of Contents
 This article is broken up into several Jupyter Notebooks.
@@ -47,13 +50,3 @@ These two techniques serve somewhat different purposes. The Doppler architecture
 We seek to empower newsrooms, researchers and members of civil society groups to easily research and debunk coordinated hoaxes, harassment campaigns, and racist propaganda that originate from unindexed online commuities.
 
 Specifically, the Disinfo Doppler will help evidence-based reporting and research into content that is ephemeral, unindexed and toxic in nature. The Disinfo Doppler would allow a greater variety of users the ability to navigate and investigate these spaces in a more secure and systematic way than is currently available. Formalizing how we observse this content is of utmost importance, as extended contact with these spaces is unnecessary and can lead to vicarious trauma, and in some rare cases radicalization. The Disinfo Doppler allows users to distance themselves from tertiary material not relevant to their investigation, while providing context vertically and horizontally.
-
-## About
-Who are we (...)
-
-## Citation
-If this article or the code are helpful to you, please provide a citation.<br>
-```{BIBTEX}```
-
-
-
